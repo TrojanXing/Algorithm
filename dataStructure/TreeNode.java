@@ -1,3 +1,4 @@
+package dataStructure;
 
 public class TreeNode {
 	 int val;
