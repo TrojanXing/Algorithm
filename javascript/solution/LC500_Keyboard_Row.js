@@ -1,3 +1,7 @@
+/**
+ * @param {string[]} words
+ * @return {string[]}
+ */
 var findWords = function(words) {
     var reg1 = /^[qwertyuiopQWERTYUIOP]*$/;
     var reg2 = /^[asdfghjklASDFGHJKL]*$/;

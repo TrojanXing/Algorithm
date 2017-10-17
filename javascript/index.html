@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>An empty page</title>
+</head>
+
+<body>
+  <script type="text/javascript">
+  var res = [];
+  var nums = [4,3,2,7,8,2,3,1];
+  var ind = nums[0] - 1;
+  for(let i in nums) {
+        let temp = nums[i] < 0 ? nums[i] * -1 - 1: nums[i] - 1;
+        nums[temp] *= -1;
+        console.log(nums);
+    }
+  for(let i = 0; i < nums.length; i++){
+      if(nums[i] !== 0){
+          res.push(i+1);
+      }
+  }
+  </script>
+</body>
+
+</html>
