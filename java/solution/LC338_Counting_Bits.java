@@ -1,4 +1,4 @@
-package solution;
+package java.solution;
 
 public class LC338_Counting_Bits {
 	public int[] countBits(int num) {

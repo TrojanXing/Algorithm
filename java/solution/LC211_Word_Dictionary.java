@@ -1,5 +1,5 @@
-package solution;
-import dataStructure.TrieNode;
+package java.solution;
+//import dataStructure.TrieNode;
 
 public class LC211_Word_Dictionary {
 	TrieNode root;

@@ -1,8 +1,8 @@
-package solution;
+package java.solution;
 
 import java.util.ArrayList;
 import java.util.List;
-import dataStructure.TreeNode;
+//import dataStructure.TreeNode;
 
 public class LC199_Binary_Tree_Right_Side_View {
     List<Integer> res;

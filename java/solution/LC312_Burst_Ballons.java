@@ -1,4 +1,4 @@
-package solution;
+package java.solution;
 
 public class LC312_Burst_Ballons {
     public int maxCoins(int[] nums) {

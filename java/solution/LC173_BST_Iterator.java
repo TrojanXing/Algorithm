@@ -1,7 +1,7 @@
-package solution;
+package java.solution;
 
 import java.util.Stack;
-import dataStructure.*;
+//import java.dataStructure.*;
 
 public class LC173_BST_Iterator {
     Stack<TreeNode> stack;

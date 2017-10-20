@@ -1,8 +1,8 @@
-package solution;
+package java.solution;
 
-import dataStructure.TreeLinkNode;
+//import java.dataStructure.TreeLinkNode;
 
-public class LC_116_Populating_Next_Right_Pointers {
+class LC_116_Populating_Next_Right_Pointers {
 	public void connect(TreeLinkNode root) {
         rebuildTree(root, null);
         return;

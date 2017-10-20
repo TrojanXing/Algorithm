@@ -1,4 +1,4 @@
-package solution;
+package java.solution;
 
 public class LC169_Majority_Element {
 	public int majorityElement(int[] nums) {

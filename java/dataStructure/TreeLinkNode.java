@@ -1,4 +1,4 @@
-package dataStructure;
+package java.dataStructure;
 /**
  * This data structure is for LC116
  * 

@@ -1,4 +1,4 @@
-package solution;
+package java.solution;
 
 public class LC299_Bull_and_Cow {
     public String getHint(String secret, String guess) {

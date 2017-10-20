@@ -1,4 +1,4 @@
-package solution;
+package java.solution;
 
 public class LC200_Number_Of_Islands {
 	int[][] move = new int[][]{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
