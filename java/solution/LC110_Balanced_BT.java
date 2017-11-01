@@ -1,4 +1,6 @@
-package solution;
+package java.solution;
+
+import java.dataStructure.*;
 
 public class LC110_Balanced_BT {
     public boolean isBalanced(TreeNode root) {

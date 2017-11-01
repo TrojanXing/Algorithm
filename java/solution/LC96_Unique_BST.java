@@ -1,4 +1,4 @@
-package solution;
+package java.solution;
 
 public class LC96_Unique_BST {
     public int numTrees(int n) {
