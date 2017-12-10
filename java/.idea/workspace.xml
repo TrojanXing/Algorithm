@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cd6d2ae-fe52-49a3-9924-312bbffffbbc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution/LC11_Container_with_Most_Water.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution/LC19_Remove_Nth_Node_From_End_of_List.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution/LC269_Perfect_Squares.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution/LC513_Find_Bottom_Left_Tree_Value.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution/LC653_Two_Sum_IV_Input_is_a_BST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution/LC98_Valid_BST.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,36 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LC104_Maximum_Depth_of_Binary_Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution/LC104_Maximum_Depth_of_Binary_Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC215_Kth_Largest_Element_in_an_Array.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution/LC215_Kth_Largest_Element_in_an_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LC240_Search_a_2D_Matrix_II.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution/LC240_Search_a_2D_Matrix_II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LC292_Nim_Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solution/LC292_Nim_Game.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,17 +73,47 @@
         <entry file="file://$PROJECT_DIR$/solution/LC11_Container_with_Most_Water.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LC19_Remove_Nth_Node_From_End_of_List.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LC19_Remove_Nth_Node_From_End_of_List.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solution/LC19_Remove_Nth_Node_From_End_of_List.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC98_Valid_BST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solution/LC98_Valid_BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC653_Two_Sum_IV_Input_is_a_BST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solution/LC653_Two_Sum_IV_Input_is_a_BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LC513_Find_Bottom_Left_Tree_Value.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solution/LC513_Find_Bottom_Left_Tree_Value.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -147,6 +147,9 @@
         <option value="$PROJECT_DIR$/solution/LC269_Perfect_Squares.java" />
         <option value="$PROJECT_DIR$/solution/LC11_Container_with_Most_Water" />
         <option value="$PROJECT_DIR$/solution/LC19_Remove_Nth_Node_From_End_of_List.java" />
+        <option value="$PROJECT_DIR$/solution/LC98_Valid_BST.java" />
+        <option value="$PROJECT_DIR$/solution/LC653_Two_Sum_IV_Input_is_a_BST.java" />
+        <option value="$PROJECT_DIR$/solution/LC513_Find_Bottom_Left_Tree_Value.java" />
       </list>
     </option>
   </component>
@@ -164,8 +167,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="358" />
-    <option name="y" value="279" />
+    <option name="x" value="343" />
+    <option name="y" value="23" />
     <option name="width" value="1114" />
     <option name="height" value="877" />
   </component>
@@ -333,12 +336,12 @@
       <workItem from="1511736559380" duration="9000" />
       <workItem from="1511740289031" duration="897000" />
       <workItem from="1512790715280" duration="2681000" />
-      <workItem from="1512861303579" duration="1128000" />
+      <workItem from="1512861303579" duration="1939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5318000" />
+    <option name="totallyTimeSpent" value="6129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,7 +353,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="358" y="279" width="1114" height="877" extended-state="0" />
+    <frame x="343" y="23" width="1114" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -402,27 +405,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solution/LC148_Sort_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution/LC173_BST_Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution/LC199_Binary_Tree_Right_Side_View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution/LC152_Maximum_Product_Subarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -734,7 +716,7 @@
     <entry file="file://$PROJECT_DIR$/solution/LC11_Container_with_Most_Water.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -743,6 +725,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution/LC98_Valid_BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution/LC653_Two_Sum_IV_Input_is_a_BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution/LC513_Find_Bottom_Left_Tree_Value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding />
         </state>
       </provider>
