@@ -1,16 +1,15 @@
-package java.dataStructure;
 /**
- * This data structure is for LC116
- * 
- * @author lixing
- *
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
  */
-public class TreeLinkNode {
-    public int val;
-    public TreeLinkNode left, right, next;
-    public TreeLinkNode(int x) { val = x; }
+public class Codec {
 
-    
+    // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         if(root == null) return "";
         StringBuilder sb = new StringBuilder();
@@ -61,3 +60,7 @@ public class TreeLinkNode {
 		return root;
     }
 }
+
+// Your Codec object will be instantiated and called as such:
+// Codec codec = new Codec();
+// codec.deserialize(codec.serialize(root));
